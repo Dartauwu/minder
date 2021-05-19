@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869771761919",
+    "project_id": "minder-8fbd3",
+    "storage_bucket": "minder-8fbd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869771761919:android:73ad7b338c22869da194ca",
+        "android_client_info": {
+          "package_name": "com.darta.minder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869771761919-p9mvt4btv0nmvu7redu0hnk8ek62arlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwD4WPe9WwAbdY9_nRd9fluQKjne59gXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869771761919-p9mvt4btv0nmvu7redu0hnk8ek62arlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
